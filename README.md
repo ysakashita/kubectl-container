@@ -19,7 +19,7 @@ $ kubectl apply -f Manifests/rbac.yaml
 $ kubectl apply -f Manifests/pod.yaml
 ```
 
-The pod execute kubectl 1.17.0.
+The pod execute kubectl 1.17.0.  
 If you want to run other version, you need update image name in the YAML.
 
 ## How to use
