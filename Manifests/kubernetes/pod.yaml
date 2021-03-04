@@ -8,7 +8,7 @@ spec:
   serviceAccount: kubectl-admin
   containers:
   - name: kubectl
-    image: ysakashita/kubectl:v1.17.0
+    image: ysakashita/kubectl:debug
     command:
     - sleep
     - infinity
