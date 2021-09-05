@@ -1,4 +1,4 @@
-TAG := ysakashita/kubectl:v1.20.0
+TAG := ysakashita/kubectl:v1.21.0
 PLATFORM := linux/amd64,linux/arm64,linux/arm/v7
 
 .PHONY: build
